@@ -18,3 +18,5 @@ Tools & Techniques:
 	•	Data Analysis: Applied data transformation and cleaning methods to ensure accuracy in reporting.
 
 This project is an educational exercise to demonstrate proficiency in data analysis and visualization, offering practical business insights for improving sales performance.
+![WhatsApp Image 2024-10-12 at 1 23 18 PM-2](https://github.com/user-attachments/assets/4194a56d-defe-498d-af16-d2e4c297fafa)
+![WhatsApp Image 2024-10-12 at 1 23 18 PM](https://github.com/user-attachments/assets/08c5c836-e039-4ecb-ad88-8284578552d5)
